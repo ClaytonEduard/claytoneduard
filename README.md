@@ -1,4 +1,4 @@
-## Olá! Eu sou o Clayton Eduard ,  iniciando no mundo da programação
+## Olá! Eu sou o Clayton Eduard
 
 <div align="center">
   <a href="https://github.com/claytoneduard">
@@ -7,7 +7,7 @@
 </div>
  
 
- ##
+ ## Meu Contatos
  
 <div> 
    <a href="https://www.instagram.com/clayton_eduard/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

@@ -1,5 +1,10 @@
 ## Olá! Eu sou o Clayton Eduard
 
+Atualmente trabalho como desenvolvedor web java na empresa Titan Software
+
+Atualmente estudando desenvolvimento front-end.: html, css, js, react.
+
+
 <div align="center">
   <a href="https://github.com/claytoneduard">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claytoneduard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

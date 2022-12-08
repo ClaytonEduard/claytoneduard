@@ -2,7 +2,7 @@
 
 Atualmente trabalho como desenvolvedor web java na empresa Titan Software
 
-Atualmente estudando desenvolvimento front-end.: html, css, js, react.
+Atualmente focado no estudo de desenvolvimento front-end
 
 
 <div align="center">

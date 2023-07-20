@@ -2,7 +2,7 @@
 
 Atualmente trabalho como desenvolvedor web java na empresa Titan Software
 
-Atualmente focado no estudo de desenvolvimento front-end (JS, Nest, React)
+Atualmente estudando Android e desenvolvimento front-end (JS, Nest, React)
 
 
 <div align="center">

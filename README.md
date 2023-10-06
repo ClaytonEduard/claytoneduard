@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Clayton Eduard
 
-Atualmente trabalho como desenvolvedor web java na empresa Titan Software
+Em busca de uma oportunidade como desenvolvedor web java.
 
-Atualmente estudando Android e desenvolvimento front-end (JS, Nest, React)
+Desenvolvimento front-end (JS, Nest, React), Docker e mongo.
 
 
 <div align="center">

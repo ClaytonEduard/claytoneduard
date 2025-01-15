@@ -2,7 +2,7 @@
 
 Em busca de uma oportunidade como desenvolvedor web java.
 
-Estudando Desenvolvimento front-end (JS ,React) e backend Python.
+Estudando Desenvolvimento front-end (JS ,React).
 
 
 <div align="center">
